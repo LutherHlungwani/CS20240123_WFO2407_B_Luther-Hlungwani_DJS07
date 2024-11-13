@@ -1,7 +1,20 @@
-# DJS07 - Build a Meme Generator
+# Getting Started
+Install the dependencies and run the project in watch mode
+```
+npm install
+npm run build # or watch to rebuild on change
+open index.html
+```
+Note that using Webpack is obselete and this archive has been provided
+for compatibility reasons. Prefer using Vite, check it at https://vitejs.dev
+## About Scrimba
 
-In this challenge you are required to code-along the Scrimba lesson: https://scrimba.com/playlist/prXJpCQ
+At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
+If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
+The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
 
-This starter repo only has CSS styling added to the empty React project.
+- [Our courses](https://scrimba.com/allcourses)
+- [The Frontend Career Path](https://scrimba.com/learn/frontend)
+- [Become a Scrimba Pro member](https://scrimba.com/pricing)
 
-After cloning run `npm install` to install dependencies.
+Happy Coding!
